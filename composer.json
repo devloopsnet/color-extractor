@@ -1,5 +1,5 @@
 {
-  "name": "league/color-extractor",
+  "name": "devloopsnet/color-extractor",
   "type": "library",
   "description": "Extract colors from an image as a human would do.",
   "keywords": [
@@ -9,7 +9,7 @@
     "palette",
     "human"
   ],
-  "homepage": "https://github.com/thephpleague/color-extractor",
+  "homepage": "https://github.com/devloopsnet/color-extractor",
   "license": "MIT",
   "replace": {
     "matthecat/colorextractor": "*"
@@ -19,6 +19,12 @@
       "name": "Mathieu Lechat",
       "email": "math.lechat@gmail.com",
       "homepage": "http://matthecat.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Abdullah Al-Faqeir",
+      "email": "abdullah@devloops.net",
+      "homepage": "https://devloops.net",
       "role": "Developer"
     }
   ],

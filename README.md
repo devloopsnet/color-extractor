@@ -1,9 +1,9 @@
 ColorExtractor
 ==============
 
-[![Build Status](https://travis-ci.org/thephpleague/color-extractor.png?branch=master)](https://travis-ci.org/thephpleague/color-extractor)
-[![Total Downloads](https://poser.pugx.org/league/color-extractor/downloads.png)](https://packagist.org/packages/league/color-extractor)
-[![Latest Stable Version](https://poser.pugx.org/league/color-extractor/v/stable.png)](https://packagist.org/packages/league/color-extractor)
+[![Build Status](https://travis-ci.org/devloopsnet/color-extractor.png?branch=master)](https://travis-ci.org/thephpleague/color-extractor)
+[![Total Downloads](https://poser.pugx.org/devloopsnet/color-extractor/downloads.png)](https://packagist.org/packages/devloopsnet/color-extractor)
+[![Latest Stable Version](https://poser.pugx.org/devloopsnet/color-extractor/v/stable.png)](https://packagist.org/packages/devloopsnet/color-extractor)
 
 Extract colors from an image like a human would do.
 
@@ -12,7 +12,7 @@ Extract colors from an image like a human would do.
 Via Composer
 
 ``` bash
-$ composer require league/color-extractor:0.3.*
+$ composer require devloopsnet/color-extractor:0.4.*
 ```
 
 ## Usage
@@ -65,15 +65,16 @@ $palette = Palette::fromFilename('./some/image.png', Color::fromHexToInt('#FFFFF
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/thephpleague/color-extractor/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/devloopsnet/color-extractor/blob/master/CONTRIBUTING.md) for details.
 
 
 ## Credits
 
 - [Mathieu Lechat](https://github.com/MatTheCat)
-- [All Contributors](https://github.com/thephpleague/color-extractor/contributors)
+- [Abdullah Al-Faqeir](https://github.com/abdullahfaqeir)
+- [All Contributors](https://github.com/devloopsnet/color-extractor/contributors)
 
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/thephpleague/color-extractor/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/devloopsnet/color-extractor/blob/master/LICENSE) for more information.
